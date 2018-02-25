@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\n\ Write\ a\ description\ of\ class\ Box\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=product\ type\ num
+comment1.target=Box(Product,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Box\n
+comment2.params=
+comment2.target=java.lang.String\ getProduct()
+comment3.params=
+comment3.target=int\ boxQuantity()
+numComments=4

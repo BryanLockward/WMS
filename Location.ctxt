@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\n\ Write\ a\ description\ of\ class\ Location\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Location()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=pick
+comment3.target=void\ setPickability(boolean)
+comment4.params=
+comment4.target=void\ getDetails()
+comment5.params=newBox
+comment5.target=void\ load(Box)
+comment6.params=
+comment6.target=java.lang.String\ getLocationName()
+numComments=7
